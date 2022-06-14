@@ -1,0 +1,27 @@
+
+
+.Container {
+  margin: 100px;
+  display: flex;
+  max-width: 1200px;
+  height: 1000px;
+  margin-left: 18%;
+  box-shadow: 5px 10px 40px rgba(0,0,0, 2);
+  align-items: center;
+  background: rgb(206, 204, 203);
+  flex-wrap: nowrap;
+
+}
+
+.myLogo {
+  position: absolute;
+  width: 350;
+  height: 160;
+  box-shadow: 5px 10px 40px rgba(0,0,0, 2);
+  top: 50px;
+  left: 200px;
+}
+
+
+ 
+
