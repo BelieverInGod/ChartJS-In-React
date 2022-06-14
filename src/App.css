@@ -1,6 +1,5 @@
-
-
 .Container {
+  min-width: 1200px;
   margin: 100px;
   display: flex;
   max-width: 1200px;
@@ -10,7 +9,6 @@
   align-items: center;
   background: rgb(206, 204, 203);
   flex-wrap: nowrap;
-
 }
 
 .myLogo {

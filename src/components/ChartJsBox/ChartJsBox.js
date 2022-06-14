@@ -56,7 +56,7 @@ const ChartJsBox = () => {
                     : <LineBar axisX={axisX} axisY={axisY}/>
                 }
             </div>
-            
+
             <div className='buttonsContainer'>
                 <div onClick={() => setVisibleChart(true)} className={'butt btn btn-dark '}>Bar Chart</div>
                 <div onClick={() => setVisibleChart(false)} className={'butt btn btn-dark '}>Line Chart</div>
